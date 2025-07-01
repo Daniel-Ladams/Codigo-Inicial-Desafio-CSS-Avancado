@@ -1,7 +1,7 @@
 <h1 align="center">Huddle Landing Page</h1>
 
 <p align="center">
-  Página responsiva de uma landing page moderna, desenvolvida para praticar habilidades em HTML5 e CSS3. <br>
+  Página responsiva de uma landing page moderna, desenvolvida para praticar habilidades em HTML5 e CSS. <br>
   Inspirado em desafios do Frontend Mentor 🚀
 </p>
 
