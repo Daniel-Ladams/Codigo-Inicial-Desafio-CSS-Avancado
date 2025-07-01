@@ -15,7 +15,7 @@
   
   🎞️ <strong>GIF demonstrativo</strong>:
   
-  <!-- Substitua abaixo pelo seu GIF, se tiver -->
+
   <img src="src/design/animacaogif.gif" alt="Animação demonstrativa" width="350px">
 
 </div>
