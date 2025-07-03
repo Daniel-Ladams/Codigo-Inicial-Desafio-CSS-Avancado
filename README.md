@@ -51,7 +51,7 @@
 ● Clone este repositório:
    
 bash
-   git clone https://github.com/Daniel-Ladams/nft.git
+   git clone 
 Acesse a pasta do projeto:
 
 ● bash
